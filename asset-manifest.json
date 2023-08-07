@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gaanaReact/static/css/main.537276a2.css",
+    "main.js": "/gaanaReact/static/js/main.025c9c19.js",
+    "static/media/hamsafar.jpg": "/gaanaReact/static/media/hamsafar.68c88031450711af5b40.jpg",
+    "index.html": "/gaanaReact/index.html",
+    "main.537276a2.css.map": "/gaanaReact/static/css/main.537276a2.css.map",
+    "main.025c9c19.js.map": "/gaanaReact/static/js/main.025c9c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537276a2.css",
+    "static/js/main.025c9c19.js"
+  ]
+}
